@@ -15,7 +15,7 @@
                     <label for="inputTitle" class="form-label">Name</label>
                     <input type="text" class="form-control" name="title">
 
-                    <button class="btn btn-secondary mt-1" type="submit">Submit</button>
+                    <button class="btn btn-primary mt-1" type="submit">Submit</button>
 
                 </form>
             </div>
